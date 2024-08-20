@@ -1,0 +1,9 @@
+
+
+POST http://localhost:3000/log
+Content-Type: application/json
+
+{
+    "log": "Hello, world2!"
+}
+
